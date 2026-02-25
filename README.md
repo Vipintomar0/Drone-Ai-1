@@ -43,5 +43,22 @@ Our platform is designed to bridge the gap between hobbyist flight and industria
 ## 🤝 Contributing
 This is an open-source project for the coding community. We welcome PRs, issues, and feature requests! Let's build the future of autonomous flight together.
 
+
+Autonomous AI Drone Platform – Flask-based control core integrating real-time telemetry, AI vision, and mission intelligence for fully autonomous aerial operations.
+
+Flight Stack Integration – Secure MAVLink communication with PX4/ArduPilot enabling guided navigation, obstacle avoidance, geofencing, and fail-safe return-to-home.
+
+AI Vision Engine – Edge-deployed YOLO (PyTorch) pipeline with real-time object detection, tracking, and target classification optimized for Jetson-class hardware.
+
+Decision Intelligence Layer – Self-identity mission model + rule engine (extendable to RL) for adaptive object collection, risk scoring, and autonomous action planning.
+
+Cloud & Data Layer – PostgreSQL + Redis for telemetry, mission logs, analytics, and fleet orchestration with secure REST/WebSocket APIs.
+
+DevOps & GitHub CI/CD – Containerized (Docker) architecture with automated testing, OTA updates, encrypted secrets, and audit-ready version control.
+
+Scalable Fleet Architecture – Multi-drone orchestration, API-first microservices design, and real-time monitoring dashboard (React PWA).
+
+Market Expansion Path – Modular AI stack enabling rapid deployment across agriculture, defense scouting, smart logistics, and industrial inspection verticals.
+
 ---
 *Created with ❤️ for the Global Developer Community.*
