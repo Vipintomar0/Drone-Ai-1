@@ -1,0 +1,10 @@
+flask
+flask-socketio
+eventlet
+pymavlink
+torch
+torchvision
+psycopg2-binary
+redis
+python-dotenv
+flask-cors
